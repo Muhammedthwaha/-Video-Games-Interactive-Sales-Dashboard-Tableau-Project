@@ -69,6 +69,8 @@ The dashboard also presents dataset-wide metrics:
 
 ---
 
+![Dasboard](https://github.com/Muhammedthwaha/-Video-Games-Interactive-Sales-Dashboard-Tableau-Project/blob/main/Dashboard%201.png)
+
 ## 🛠️ **Tools & Technologies Used**
 
 * **Tableau Public** for data visualization
@@ -95,5 +97,3 @@ If you're interested in more data dashboards or want to collaborate, feel free t
 📂 **GitHub Portfolio:** Explore more dashboards and analytics projects on my profile!
 
 ---
-
-If you'd like, I can also create a **LinkedIn post caption** for this project — just let me know!
